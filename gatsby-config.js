@@ -9,16 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sterling Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Peter Sterling`,
+      summary: `who is a Software Engineer living in Washington D.C.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog for me to share my thoughts and reviews of the excessive amount of various media I consume.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
   },
   plugins: [
     `gatsby-plugin-image`,
