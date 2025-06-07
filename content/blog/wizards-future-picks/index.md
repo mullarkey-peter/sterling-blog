@@ -6,11 +6,14 @@ description: "Washington Wizards are primed to be a real franchise."
 
 ## The FUTURE
 
-The Wizards have a 14 % chance for the number 1 pick and a 52.1 % chance to get a top four pick. Estimating on the safe side its a fair assumption that we will not end up winning the lottery and coming home with Cooper Flagg. We are a cursed and (historically) a terribly run franchise so the idea of getting Cooper Flagg and the Wizards becoming a real competitor in the next 2-5 years is a little hard to swallow, however the way things are shaking out with some of our recent trade partners we could be in position to be the ulitmate trade facilitator and put together a real team of vets and high draft picks who actually want to win more than 20 games!
+The Washington Wizards enter the draft lottery with a 14% chance at the number 1 pick and a promising 52.1% chance of landing in the top four. However, being realistic about our franchise's history, we shouldn't get our hopes too high about winning the Cooper Flagg sweepstakes.
+Our track record as a cursed and historically challenged organization makes it difficult to envision a scenario where we suddenly land the top prospect and transform into a contender over the next 2-5 years. But there's another path forward that might be more viable.
+Thanks to our recent trades, we're actually positioned to become valuable trade facilitators, potentially assembling a competitive roster of veterans and high draft picks who are genuinely motivated to win.
 
 ![Wizards/Bucks/Nuggets](images/wizards-bucks-nuggets.png)
 
-This is not intended to be a realistic trade but having the Bucks 2028 swap could get us involved as a salary match team to entice the Bucks into a trade. They don't have control of their picks until 2031 so there is real incentive for them to get their swaps and picks back and be somewhat competitive. Any team that trades for Giannis is going to be a contender.
+While the trade scenario above isn't necessarily meant to be realistic, it illustrates an important advantage: our control of the Bucks' 2028 swap gives us leverage as a salary-matching third team in larger deals. Milwaukee doesn't control their picks until 2031, creating significant incentive for them to reacquire their swaps and picks while maintaining competitiveness.
+Any team trading for a player of Giannis's caliber would immediately enter championship contention, and we could benefit substantially by facilitating such a transaction.
 
 ## Washington Wizards Incoming Draft Picks
 
